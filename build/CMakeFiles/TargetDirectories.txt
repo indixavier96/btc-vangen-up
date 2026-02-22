@@ -1,0 +1,3 @@
+D:/development/btc-address-gen/build/CMakeFiles/openssl_test.dir
+D:/development/btc-address-gen/build/CMakeFiles/edit_cache.dir
+D:/development/btc-address-gen/build/CMakeFiles/rebuild_cache.dir

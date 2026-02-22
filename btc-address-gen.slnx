@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="btc-address-gen/btc-address-gen.vcxproj" Id="01428d1d-0f90-4a31-b0e3-07ac65491440" />
+</Solution>
