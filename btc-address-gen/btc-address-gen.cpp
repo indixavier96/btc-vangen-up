@@ -1,6 +1,6 @@
 // btc-address-gen.cpp
 // OpenSSL 3.x compatible Bitcoin address generator
-// Generates 100 wallets and writes output to output.txt
+// Generates 100 wallets and writes output to output.txt 
 
 #include <openssl/evp.h>
 #include <openssl/core_names.h>
